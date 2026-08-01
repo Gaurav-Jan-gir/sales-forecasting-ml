@@ -1,5 +1,16 @@
 # Sales Forecasting - Machine Learning Project
 
+## Intern Details
+| Field | Value |
+|-------|-------|
+| **Full Name** | Gaurav |
+| **Email** | gjangir477@gmail.com |
+| **Codtech Intern ID** | CT-2712 |
+| **Company** | Codtech IT Solutions |
+| **Project** | Sales Forecasting |
+
+---
+
 ## Project Overview
 This project implements time series forecasting models to predict future sales using real-world data from Kaggle's Walmart Sales Forecast dataset.
 
